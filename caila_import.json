@@ -10,7 +10,7 @@
         "classificationAlgorithm": "sts",
         "timezone": "Europe/Moscow",
         "extendedSettings": {
-      "tokenizerEngine": "mystem",
+      "tokenizerEngine": "mystem123",
             "useShared": false
         }
     },
